@@ -11,3 +11,6 @@ Week | Event | Description | Course Materials
 3 | Lecture | **Structure your TensorFlow model** / Example: word2vec | Suggested Readings: A lot. See lecture note / [[note](week_3/notes_04.pdf)] / [[slides](week_3/slides_04.pdf)]
 3 | Lecture | **Managing experiments and process data** / Interfaces / Saver object, checkpoints / Example: word2vec | [[note](week_3/notes_05.pdf)] / [[slides](week_3/slides_05.pdf)]
 3 | A1 due | **Assignment #1 due** | 
+4 | Lecture | **Convolutional Neural Networks** / Guest lecture by Justin Johnson (Stanford Vision Lab) / Example: Neural style translation | [[slides](week_4/slides_06.pdf)]
+4 | Lecture | **Convolutional Neural Networks (continued)** / Example: Autoencoder | [[note](week_4/notes_07_draft.pdf)] / [[slides](week_4/slides_07.pdf)]
+4 | A2 released | **Assignment #2 released** | [[A2 handout](week_4/a2.pdf)] / [[code](https://github.com/cabadsanchez/tf-stanford-tutorials/tree/master/assignments/style_transfer)]
