@@ -16,3 +16,6 @@ Week | Event | Description | Course Materials
 4 | A2 released | **Assignment #2 released** | [[A2 handout](week_4/a2.pdf)] / [[code](https://github.com/cabadsanchez/tf-stanford-tutorials/tree/master/assignments/style_transfer)]
 5 | Lecture | **Convolutional Neural Networks** / Guest lecture by [Jon Shlens](https://research.google.com/pubs/JonathonShlens.html) (Google Brain) | 
 5 | Lecture | **Input Pipeline** / Discussion of Assignment #2 / Style Transfer | [[note](week_5/notes_09.pdf)] / [[slides](week_5/slides_09.pdf)]
+6 | | No class | TensorFlow Dev Summit ([live stream](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/#content))
+6 | Lecture | **Midterm discussion** | No slides
+6 | A2 Due | **Assignment #2 due | 
