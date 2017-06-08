@@ -24,3 +24,7 @@ Week | Event | Description | Course Materials
 8 | Lecture | **Seq2seq with Attention** / Example: Chatbot | [[slides](week_8/slides_13.pdf)]
 8 | A3 released | **Assignment #3 released** | [[A3 Handout](week_8/a3.pdf)] / [[code](https://github.com/cabadsanchez/tf-stanford-tutorials/tree/master/assignments/chatbot)] / [[Anonymous Chatlog Donation](week_8/anonymous_chatlog.pdf)]
 8 | | No class | [Pete Warden: TensorFlow for Mobile Developers](https://www.eventbrite.com/e/primer-hosts-pete-warden-tensorflow-for-mobile-developers-tickets-32415900832)
+9 | Lecture | **Seq2seq with Attention (continued)** / Chatbot: Training and Optimizing | 
+9 | Lecture | **Reinforcement Learning in Tensorflow** / Guest lecture by [Danijar Hafner](http://danijar.com/) (co-author of TensorFlow for Machine Intelligence) | [[slides](week_9/slides_14.pdf)]
+9 | A3 Due | **Assignment #3 due** | 
+9 | Demo | **Chatbot demo** | 
