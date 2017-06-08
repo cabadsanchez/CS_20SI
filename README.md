@@ -19,3 +19,5 @@ Week | Event | Description | Course Materials
 6 | | No class | TensorFlow Dev Summit ([live stream](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/#content))
 6 | Lecture | **Midterm discussion** | No slides
 6 | A2 Due | **Assignment #2 due | 
+7 | Lecture | **Introduction to RNN, LSTM, GRU** / Example: Character-level Language Modeling | [[slides](week_7/slides_11.pdf)]
+7 | Lecture | **Convolutional-GRU** / Guest lecture by [Lukasz Kaiser](https://research.google.com/pubs/LukaszKaiser.html) (Google Brain) | [[slides](week_7/slides_12.pdf)]
