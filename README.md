@@ -21,3 +21,6 @@ Week | Event | Description | Course Materials
 6 | A2 Due | **Assignment #2 due | 
 7 | Lecture | **Introduction to RNN, LSTM, GRU** / Example: Character-level Language Modeling | [[slides](week_7/slides_11.pdf)]
 7 | Lecture | **Convolutional-GRU** / Guest lecture by [Lukasz Kaiser](https://research.google.com/pubs/LukaszKaiser.html) (Google Brain) | [[slides](week_7/slides_12.pdf)]
+8 | Lecture | **Seq2seq with Attention** / Example: Chatbot | [[slides](week_8/slides_13.pdf)]
+8 | A3 released | **Assignment #3 released** | [[A3 Handout](week_8/a3.pdf)] / [[code](https://github.com/cabadsanchez/tf-stanford-tutorials/tree/master/assignments/chatbot)] / [[Anonymous Chatlog Donation](week_8/anonymous_chatlog.pdf)]
+8 | | No class | [Pete Warden: TensorFlow for Mobile Developers](https://www.eventbrite.com/e/primer-hosts-pete-warden-tensorflow-for-mobile-developers-tickets-32415900832)
